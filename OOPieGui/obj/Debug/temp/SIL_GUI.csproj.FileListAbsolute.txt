@@ -1,0 +1,17 @@
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL\bin\Debug\SIL.exe
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL\bin\Debug\SIL.pdb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL\bin\Debug\SIL_Core.dll
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL\bin\Debug\SIL_Core.pdb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL\obj\Debug\SIL.frmDrawLine.resources
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL\obj\Debug\SIL.frmErrList.resources
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL\obj\Debug\SIL.frmEditor.resources
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL\obj\Debug\SIL.frmIntro.resources
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL\obj\Debug\SIL.frmMain.resources
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL\obj\Debug\SIL.frmOutput.resources
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL\obj\Debug\SIL.frmRead.resources
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL\obj\Debug\SIL.frmWizard.resources
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL\obj\Debug\SIL.Properties.Resources.resources
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL\obj\Debug\SIL_GUI.csproj.GenerateResource.Cache
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL\obj\Debug\SIL.exe
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL\obj\Debug\SIL.pdb

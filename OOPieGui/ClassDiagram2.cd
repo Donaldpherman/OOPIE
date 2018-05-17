@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPieGUI.frmEditor">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAAAAAAAACAAAACAAAYAQIAAAEAAAAAAAA=</HashCode>
+      <FileName>frmEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPieGUI.frmIntro">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAAAAAAAACAAAACAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>frmIntro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPieGUI.frmMain">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FYCQBAAhACAAAEAAQGCCgAECmQgQABCAQgCAACAAAAM=</HashCode>
+      <FileName>frmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPieGUI.frmOutput">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAwAAAACAAAACAAACAQAgAAEAQABAASA=</HashCode>
+      <FileName>frmOutput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPieGUI.frmWizard">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="OOPieGUI.frmWizard.OnCreateHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>frmWizard.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAARAQAACAAAICACAAAAAABAAQAAAMACA=</HashCode>
+      <FileName>frmWizard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

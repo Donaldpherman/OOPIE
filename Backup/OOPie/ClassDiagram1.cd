@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Util.Args" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Args.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPieCore.ClassObject">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUFACAAIAAAACBAAAAEIAAARAgIAIQEEAAAABQCgUA=</HashCode>
+      <FileName>ClassObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPieCore.ConsolePause" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAACAIAAAAAAAACEQAAAAAAAgBAAAAAAA=</HashCode>
+      <FileName>ConsolePause.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OOPieCore.DataMembersInClass">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIIAAAIAgEgAAIAAAACAAAAIAAAAAAAAAACAA=</HashCode>
+      <FileName>DataMembersInClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPieCore.Helper" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEBAACARCCAAAAgEAACEASAAIAAEAAAABAghAIaChoA=</HashCode>
+      <FileName>Helper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPieCore.Instance">
+    <Position X="10.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAgAAAAAAABAAAAAAAgAAAABAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Instance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPieCore.MethodMembersInClass">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAIAAAQEAAAAAAQQAAAEAAAAAAAAAAAQBAA=</HashCode>
+      <FileName>MethodMembersInClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPieCore.MethodParameter">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>MethodMembersInClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPieCore.OOPieIO">
+    <Position X="11.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OOPieIO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPieCore.Parse">
+    <Position X="8" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAEAAAAAAAAAABAAAAAAAAAAAAEAACAAAACAA=</HashCode>
+      <FileName>parse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPieCore.Pie">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPieCore.PreProcessor" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAABAAAAAAAAEAABIAAAABAQA=</HashCode>
+      <FileName>PreProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="csLexer" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>2fv/M70UTJ9M/PbnG6Csbq8S+Z3Q9P/7Hp0s2///d7M=</HashCode>
+      <FileName>csLexer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="csParser" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>//////////////////////////////////////////8=</HashCode>
+      <FileName>csParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

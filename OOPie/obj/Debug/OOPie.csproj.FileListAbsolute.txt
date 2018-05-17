@@ -1,0 +1,7 @@
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\CECS 547Project\OOPie\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\CECS 547Project\OOPie\bin\Debug\OOPie.dll
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\CECS 547Project\OOPie\bin\Debug\OOPie.pdb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\CECS 547Project\OOPie\bin\Debug\CalithaLib.dll
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\CECS 547Project\OOPie\bin\Debug\GoldParserEngine.dll
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\CECS 547Project\OOPie\obj\Debug\OOPie.dll
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\CECS 547Project\OOPie\obj\Debug\OOPie.pdb
